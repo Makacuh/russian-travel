@@ -10,14 +10,15 @@
   margin-bottom: 0;
 }
 
-@media scree and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
   .place {
     row-gap: 48px;
     column-gap: 28px;
+    margin: 0 auto 72px;
   }
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .place {
 		display: flex;
 		row-gap: 0;
