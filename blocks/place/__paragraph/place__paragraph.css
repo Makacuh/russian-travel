@@ -12,7 +12,7 @@
   }
 }
 
-@media creen and (max-width: 768px) {
+@media creen and (max-width: 767px) {
   .place__paragraph {
     margin-bottom: 25px;
   }
